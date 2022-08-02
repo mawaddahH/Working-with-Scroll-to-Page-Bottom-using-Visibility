@@ -1,5 +1,5 @@
 # Working-with-Scroll-to-Page-Bottom-using-Visibility
-Assignment 3 W9D3 - SDA - Software QA Bootcamp
+Assignment 3 W9D2 - SDA - Software QA Bootcamp
 
 
 ## Table of contents
